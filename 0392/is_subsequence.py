@@ -1,7 +1,8 @@
 """
 Leetcode Problem 0392
+Difficulty: Easy
 Runtime: 20ms (85.10% faster)
-Memory usage: 13.5mb (88.10% less)
+Memory usage: 13.5MB (88.10% less)
 
 Description:
 Given two strings s and t, returns true if s is a subsequence of t,

@@ -1,7 +1,8 @@
 """
 Leetcode Problem 0027
+Difficulty: Easy
 Runtime: 14ms (97.44% faster)
-Memory usage: 13.4mb (66.27% less)
+Memory usage: 13.4MB (66.27% less)
 
 Description:
 Given an integer array nums and an integer val,

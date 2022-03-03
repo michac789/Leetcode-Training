@@ -1,7 +1,8 @@
 """
 Leetcode Problem 0013
+Difficulty: Easy
 Runtime: 50ms (64.96% faster)
-Memory usage: 13.3mb (84.00% less)
+Memory usage: 13.3MB (84.00% less)
 
 Description:
 Given a valid roman numeral, convert it into integer.

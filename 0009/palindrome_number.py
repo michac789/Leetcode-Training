@@ -1,7 +1,8 @@
 """
 Leetcode Problem 0009
+Difficulty: Easy
 Runtime: 50ms (94% faster)
-Memory usage: 13.3mb (87.89% less)
+Memory usage: 13.3MB (87.89% less)
 
 Description:
 Given an integer x, return true if x is palindrome otherwise false

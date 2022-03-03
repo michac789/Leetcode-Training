@@ -1,7 +1,8 @@
 """
 Leetcode Problem ____
+Difficulty: _____
 Runtime: ___ms (__% faster)
-Memory usage: ___mb (__% less)
+Memory usage: ___MB (__% less)
 
 Description:
 TODO

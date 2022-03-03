@@ -1,4 +1,14 @@
-def searchInsert(nums, target):
+"""
+Leetcode Problem 0035
+Difficulty: Easy
+Runtime: 36ms (82.86% faster)
+Memory usage: 14MB (95.92% less)
+
+Description:
+TODO
+"""
+
+def searchInsert(nums, target): 
     middle = len(nums) // 2
     left = nums[:middle]
     mid = nums[middle]

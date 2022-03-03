@@ -2,7 +2,7 @@
 Leetcode Problem 0413
 Difficulty: Medium
 Runtime: 26ms (74.85% faster)
-Memory usage: 13.5mb (84.85% less)
+Memory usage: 13.5MB (84.85% less)
 
 Description:
 An integer array is called arithmetic if it consists of at least 3 elements

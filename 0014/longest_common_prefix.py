@@ -1,7 +1,8 @@
 """
 Leetcode Problem 0014
+Difficulty: Easy
 Runtime: 25ms (70.79% faster)
-Memory usage: 13.7mb (64.33% less)
+Memory usage: 13.7MB (64.33% less)
 
 Description:
 Find the longest common prefix string amongst an array of strings
