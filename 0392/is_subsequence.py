@@ -1,3 +1,13 @@
+"""
+Leetcode Problem 0392
+Runtime: 20ms (85.10% faster)
+Memory usage: 13.5mb (88.10% less)
+
+Description:
+Given two strings s and t, returns true if s is a subsequence of t,
+otherwise false.
+"""
+
 def isSubsequence(s, t):
     i = 0
     if len(s) == 0: return True
