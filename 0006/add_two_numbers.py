@@ -9,6 +9,7 @@ Given two non-empty linked lists representing two non-negative integers
 in reversed order, with each node containing a single digit, add the numbers
 and return the sum as a linked list (also in reverse order).
 """
+
 class ListNode(object):
     def __init__(self, val=0, next=None):
         self.val = val
